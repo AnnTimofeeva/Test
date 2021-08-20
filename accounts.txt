@@ -1,0 +1,3 @@
+Adam|Brown|112233|deposit|Y|50.00|2.0|1
+Mary|Brown|11QW12|deposit|N|50.00|2.0|2
+Lily|White|2233AS|current|N|10025.00|5.0|3
