@@ -2,7 +2,7 @@ from customer_account import Customer_account
 
 
 class FileParser():
-
+#test 1
     def read_customer_accounts(self, filename):
 
         customer_accounts = []
@@ -15,7 +15,6 @@ class FileParser():
         except IOError:
             print(f"Warning: Could not open file {filename} for reading.")
             input("Return to continue...")
-            input ("Goodbye")
             # return the empty list of customers
             return customer_accounts
         # parse each line of accounts file and create a Account object
